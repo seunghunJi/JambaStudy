@@ -7,3 +7,4 @@ a coding study with woogieboogie-jl: I never wear a jamba if I don't like it
 
 Thank you for visiting this pepper study :)
 
+Our nick name is "RED HOT KOREAN PEPPERS"
