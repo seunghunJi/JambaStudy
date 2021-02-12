@@ -7,3 +7,5 @@ a coding study with woogieboogie-jl: I never wear a jamba if I don't like it
 
 Thank you for visiting this pepper study :)
 
+
+I have returned to studying git! -woogieboogie
