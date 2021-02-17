@@ -3,5 +3,11 @@ def jamba(color):
 
 colors = ['blue', 'black', 'red']
 
+
 for c in colors:
     jamba(c)
+
+
+print("test")
+
+
