@@ -1,4 +1,4 @@
-def webscraper():
+def webscraper_test():
     for i in range (1,10)
         print("scraping data")
 
