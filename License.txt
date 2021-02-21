@@ -1,5 +1,4 @@
 기본 라이센스
 enterprise license: 5$ per month
-free license: 0$ per month
 education license: 4$ per month
 standalone license: 7$ per month
